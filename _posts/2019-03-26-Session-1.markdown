@@ -1,6 +1,0 @@
----
-layout: default
-title: "First Team Meeting"
----
-
-Some Content
